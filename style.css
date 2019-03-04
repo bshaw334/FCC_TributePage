@@ -1,1 +1,43 @@
+/** freeCodeCamp Tribute Exercise - W.E.B. Du Bois March 2019 -bshaw334 **/
+body {
+	background-color: #CCCCCC;
+}
+#main {
+	padding: 25px;
+}
+#header {
+	align-content: center;
+}
+#title {
+	
+}
+/**  #8: The img element should responsively resize, relative to the width of its parent element, without exceeding its original size. | #9: The img element should be centered within its parent element. **/
+img {
+	
+}
+#img-div {
+	
+}
+#tribute-info {
+	
+}
+#facts {
+	
+}
+.facts {
+	max-width: 350px;
+	float:left;
+}
+#noteable {
+	
+}
+#education {
+	
+}
+#footer {
+	
+}
+#tribute-link {
+	
+}
 
