@@ -3,17 +3,18 @@ body {
 	background-color: #CCCCCC;
 }
 #main {
+	margin: 25px;
 	padding: 25px;
 }
 #header {
 	align-content: center;
 }
 #title {
-	
+	text-align: center;
 }
 /**  #8: The img element should responsively resize, relative to the width of its parent element, without exceeding its original size. | #9: The img element should be centered within its parent element. **/
 img {
-	align-self: center;
+	align: center;
 }
 #img-div {
 	
@@ -35,7 +36,8 @@ img {
 	
 }
 #footer {
-	
+	background-color: #333333;
+
 }
 #tribute-link {
 	
